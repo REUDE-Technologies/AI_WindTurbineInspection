@@ -1,0 +1,8 @@
+{
+  "blades": [
+    {"id": "361", "name": "Blade 361"},
+    {"id": "363", "name": "Blade 363"},
+    {"id": "379", "name": "Blade 379"}
+  ],
+  "include_nacelle": true
+}
